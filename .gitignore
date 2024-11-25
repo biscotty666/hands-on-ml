@@ -1,0 +1,6 @@
+src-repo/
+nohup.out
+datasets/
+.ipynb_checkpoints/
+.envrc
+.direnv/
