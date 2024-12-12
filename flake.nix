@@ -23,12 +23,14 @@
             scikit-learn
             joblib
             matplotlib
+            xgboost
             seaborn
             plotly
+            graphviz
           ]))
         ];
         shellHook = ''
-            export BROWSER=firefox
+            export BROWSER=floorp
             #jupyter lab
         '';
       };
